@@ -1,0 +1,14 @@
+Cheats - Enter in command line in the Command Menu (enter key)
+-useful in Unity lack of collider glitches
+===================
+deathtoinfidels - destroy all enemy robots
+
+oopsmybad - destroy all friendly robots
+
+fullactivate - full activation energy
+
+botup - spawn new ally bot
+
+evilwalks - spawn enemy bot
+
+goodbyecruelworld - kill player (useful if stuck in base)
